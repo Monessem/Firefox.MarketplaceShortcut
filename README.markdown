@@ -1,0 +1,1 @@
+This application just adds a shortcut to the Firefox Marketplace. To compile, use Mozilla Add-ons SDK
