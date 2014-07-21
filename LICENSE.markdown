@@ -1,1 +1,1 @@
-This extension is open sourced, but it will be sent by me on Firefox Add-on collection and the version number will be determined by me.
+GNU General Public License, version 3.0
