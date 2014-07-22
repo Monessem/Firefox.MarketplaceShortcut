@@ -1,1 +1,2 @@
 This application just adds a shortcut to the Firefox Marketplace in Firefox directly. To compile, use Mozilla Add-ons SDK.
+Here's the url on AMO:https://addons.mozilla.org/en-us/firefox/addon/firefox-marketplace-shortcut/
